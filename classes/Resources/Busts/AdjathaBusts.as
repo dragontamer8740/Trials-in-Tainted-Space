@@ -10,7 +10,7 @@ package classes.Resources.Busts
 		public function get PREVIEW():Class { return Bust_AINA; }
 		public function get SIGNATURE():Class { return SigEmbed; }
 		
-		[Embed(source = "../../../assets/images/npcs/adjatha/HR/sig.png", mimeType = "image/png")]
+		[Embed(source = "../../../assets/images/npcs/adjatha/hr/sig.png", mimeType = "image/png")]
 		public var SigEmbed:Class;
 		
 		[Embed(source = "../../../assets/images/npcs/adjatha/able.png", mimeType = "image/png")]
